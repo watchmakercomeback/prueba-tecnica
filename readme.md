@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Prueba técnica
 
 Proyecto solicitado de agentes con dos funcionalidades, para probarlo, puedes editar el archivo index.js, a continuación se dice como usar
 
