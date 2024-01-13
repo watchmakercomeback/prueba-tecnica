@@ -1,4 +1,3 @@
-// agentA.js
 class Agent {
     constructor(mediaStrategy, stairCaseStrategy) {
       this.mediaStrategy = mediaStrategy;

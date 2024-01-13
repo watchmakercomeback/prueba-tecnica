@@ -1,4 +1,3 @@
-// harmonicMeanStrategy.js
 class HarmonicMeanStrategy {
   constructor() {
     this.strategy = "media"

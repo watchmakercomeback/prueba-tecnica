@@ -1,4 +1,3 @@
-// meanStrategy.js
 class MeanStrategy {
   constructor() {
     this.strategy = "media"

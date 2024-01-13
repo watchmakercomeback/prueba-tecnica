@@ -14,7 +14,7 @@ const resultA = agentA.executeMediaStrategy(data);
 const resultB = agentB.executeMediaStrategy(data);
 const resultC = agentC.executeMediaStrategy(data);
 
-const resultA2 = agentC.executeStairCaseStrategy(5);
+const resultA2 = agentC.executeStairCaseStrategy(2);
 
 console.log('Result A:', resultA);
 console.log('Result B:', resultB);
